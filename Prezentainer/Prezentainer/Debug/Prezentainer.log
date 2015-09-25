@@ -1,4 +1,4 @@
-﻿빌드 시작: 2015-09-25 오후 3:52:45
+﻿빌드 시작: 2015-09-25 오후 4:15:55
      1>2 노드의 "C:\Users\SAMSUNG\Desktop\프로그래밍 폴더\Prezentainer\Prezentainer\Prezentainer.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
          "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Prezentainer.unsuccessfulbuild"을(를) 만들고 있습니다.
@@ -12,11 +12,12 @@
                  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
      1>c:\users\samsung\desktop\프로그래밍 폴더\prezentainer\prezentainer\Form1.h(66): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
-     1>c:\users\samsung\desktop\프로그래밍 폴더\prezentainer\prezentainer\Form1.h(260): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\samsung\desktop\프로그래밍 폴더\prezentainer\prezentainer\Form1.h(262): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
          모든 출력이 최신 상태입니다.
        CoreResGen:
-         리소스의 소스 파일을 기준으로 만료된 리소스가 없습니다. 리소스 생성을 건너뜁니다.
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Debug\Prezentainer.Form1.resources
+         리소스 파일 "Form1.resX"을(를) "Debug\Prezentainer.Form1.resources"(으)로 처리하고 있습니다.
        ResourceCompile:
          모든 출력이 최신 상태입니다.
        Link:
@@ -37,4 +38,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:11.56
+경과 시간: 00:00:14.08
